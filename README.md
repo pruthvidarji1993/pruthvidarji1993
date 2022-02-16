@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/pruthvidarji](https://dev.to/pruthvidarji)
 
-- 📫 How to reach me **pruthvid@zignuts.com || pruthvidarji93@gmail.com**
+- 📫 How to reach me **pruthvid@zignuts.com**
 
 
 <h3 align="left">Connect with me:</h3>
