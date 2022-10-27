@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pruthvidarji.netlify.app/](https://pruthvidarji.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/pruthvidarji](https://dev.to/pruthvidarji)
+- 📝 I regularly write articles on [https://dev.to/pruthvidarji1993](https://dev.to/pruthvidarji1993)
 
 - 📫 How to reach me **pruthvid@zignuts.com**
 
