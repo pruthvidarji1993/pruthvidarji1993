@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Darji</h1>
 <h3 align="center">And this is my digital coding garden.</h3>
 
-- 🔭 I’m currently working on **Technical Lead**
+- 🔭 I’m currently working on **Sr.Technical Lead**
 
 - 🌱 I’m currently learning **New Technologies in Web**
 
