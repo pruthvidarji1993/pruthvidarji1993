@@ -21,10 +21,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvidarji1993&" alt="pruthvidarji1993" /></p>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/pruthvidarji1993"
-  width="600"
-  height="300"
-/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pruthvidarji1993&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/pruthvidarji1993"
+    width="600"
+    height="120"
+  />
 </a>
+  
