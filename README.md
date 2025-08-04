@@ -20,3 +20,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvidarji1993&show_icons=true&locale=en&layout=compact" alt="pruthvidarji1993" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvidarji1993&" alt="pruthvidarji1993" /></p>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/pruthvidarji1993"
+  width="600"
+  height="300"
+/>
+</a>
