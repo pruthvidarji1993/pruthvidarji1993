@@ -19,13 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvidarji1993&show_icons=true&locale=en&layout=compact" alt="pruthvidarji1993" /></p>
 
-<p><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pruthvidarji1993&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/pruthvidarji1993"
-    width="600"
-    height="120"
-  />
-</a></p>
+
 
 
 
